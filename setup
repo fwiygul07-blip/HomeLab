@@ -1,0 +1,5 @@
+Hypervisor: Virtualbox
+OS: Kali Linux (Rolling Release)
+Resources: 4 GB RAM, 2 CPUS, 40 GB Storage
+Network Adapter: NAT, Host-Only
+sudo apt update && sudo apt upgrade -y

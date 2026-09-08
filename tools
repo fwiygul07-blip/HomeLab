@@ -1,0 +1,6 @@
+Zshell - CLI
+Nmap - nmap <target>
+MetaSploit - msfconsole
+WireShark - sudo wireshark
+John the Ripper - john hash.txt
+Burp Suite - burpsuite
